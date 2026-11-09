@@ -142,7 +142,7 @@ export const ContactPage: React.FC<ContactPageProps> = ({
         {/* Background Architectural Image with Subtle Overlay */}
         <div className="absolute inset-0 z-0">
           <img
-            src="/src/assets/images/hero_luxury_villa_1794250558934.jpg"
+            src="/images/hero_luxury_villa.jpg"
             alt="Contemporary architectural facade"
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover opacity-30"

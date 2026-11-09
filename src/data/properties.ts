@@ -13,7 +13,7 @@ export const PROPERTIES: Property[] = [
     bathrooms: 6,
     squareMeters: 680,
     status: 'For Sale',
-    image: '/src/assets/images/prop_meridian_residence_1794250560154.jpg',
+    image: '/images/prop_meridian_residence.jpg',
     tagline: 'Sculptural Modernity Framed by Coastal Light',
     description:
       'A masterpiece of contemporary tropical brutalism and refined coastal architecture in prime Lekki Phase 1. The residence features floor-to-ceiling solar-attenuated glass curtains, natural travertine slabs, and floating cantilevered volumes suspended over reflective courtyard water gardens.',
@@ -46,7 +46,7 @@ export const PROPERTIES: Property[] = [
     bathrooms: 4,
     squareMeters: 510,
     status: 'For Sale',
-    image: '/src/assets/images/prop_azure_penthouse_1794250561445.jpg',
+    image: '/images/prop_azure_penthouse.jpg',
     tagline: 'Panoramic Horizons Above the Atlantic Shore',
     description:
       'Commanding the crowning tiers of Victoria Island’s premier architectural tower, The Azure Penthouse delivers double-height 6.2-meter living volumes with 270-degree unbroken vistas over the Lagos lagoon and Atlantic coastline.',
@@ -80,7 +80,7 @@ export const PROPERTIES: Property[] = [
     bathrooms: 5,
     squareMeters: 590,
     status: 'For Rent',
-    image: '/src/assets/images/prop_willow_estate_1794250561673.jpg',
+    image: '/images/prop_willow_estate.jpg',
     tagline: 'An Island Oasis of Tropical Serenity & Privacy',
     description:
       'Set within a lush, discrete tree-lined avenue in Old Ikoyi, The Willow Estate blends indoor and outdoor luxury living seamlessly. Expansive teak sliding screens open onto an azure swimming pool surrounded by mature royal palms and fragrant tropical gardens.',
@@ -113,7 +113,7 @@ export const PROPERTIES: Property[] = [
     bathrooms: 7,
     squareMeters: 920,
     status: 'For Sale',
-    image: '/src/assets/images/prop_crest_residence_1794250561608.jpg',
+    image: '/images/prop_crest_residence.jpg',
     tagline: 'Waterfront Monumental Architecture at Its Pinnacle',
     description:
       'Positioned along the exclusive shoreline of Banana Island, The Crest Residence represents the zenith of Nigerian luxury waterfront living. Multi-tiered cantilever terraces descend gracefully toward an Olympic-length infinity edge pool and a private deep-water yacht jetty.',

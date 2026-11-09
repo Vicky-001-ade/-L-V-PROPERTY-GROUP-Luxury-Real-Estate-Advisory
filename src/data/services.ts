@@ -8,7 +8,7 @@ export const SERVICES: ServiceItem[] = [
     title: 'Residential Property Sales',
     description:
       'Discover exceptional homes and residential opportunities with guidance designed to make your buying journey more informed, seamless and rewarding. We represent premier residential assets with absolute discretion and market acumen.',
-    image: '/src/assets/images/prop_meridian_residence_1794250560154.jpg',
+    image: '/images/prop_meridian_residence.jpg',
     deliverables: [
       'Property discovery & bespoke private viewings',
       'Confidential buyer consultation & portfolio alignment',
@@ -25,7 +25,7 @@ export const SERVICES: ServiceItem[] = [
     title: 'Luxury Property Rentals',
     description:
       'Find a residence that reflects your lifestyle, expectations and preferred location through a more personalised rental experience. From architectural penthouses to diplomatic enclaves, we curate rentals of unmatched distinction.',
-    image: '/src/assets/images/prop_willow_estate_1794250561673.jpg',
+    image: '/images/prop_willow_estate.jpg',
     deliverables: [
       'Premium rental discovery across prime Lagos enclaves',
       'Bespoke tenant consultation & relocation assistance',
@@ -42,7 +42,7 @@ export const SERVICES: ServiceItem[] = [
     title: 'Real Estate Investment Advisory',
     description:
       'Explore property investment opportunities with a thoughtful approach to location, market positioning and long-term potential. We assist private clients, family offices, and institutional investors in identifying capital growth and resilient yields.',
-    image: '/src/assets/images/prop_crest_residence_1794250561608.jpg',
+    image: '/images/prop_crest_residence.jpg',
     deliverables: [
       'Investment opportunity sourcing & off-market pipeline',
       'Macro & micro-market intelligence across West Africa',
@@ -59,7 +59,7 @@ export const SERVICES: ServiceItem[] = [
     title: 'Property Acquisition and Sourcing',
     description:
       'Let us help you identify properties that align with your requirements, objectives and investment preferences. Acting exclusively on your behalf, our search mandate provides uncompromised advocacy in securing rare prime real estate.',
-    image: '/src/assets/images/hero_luxury_villa_1794250558934.jpg',
+    image: '/images/hero_luxury_villa.jpg',
     deliverables: [
       'Bespoke off-market property sourcing & owner outreach',
       'Exhaustive client requirement assessment & spatial scoping',
@@ -76,7 +76,7 @@ export const SERVICES: ServiceItem[] = [
     title: 'Property Management and Consultancy',
     description:
       'Support your property ownership journey with organised, professional property oversight and advisory services. We preserve architectural integrity, ensure tenant satisfaction, and optimize long-term asset value.',
-    image: '/src/assets/images/prop_azure_penthouse_1794250561445.jpg',
+    image: '/images/prop_azure_penthouse.jpg',
     deliverables: [
       'Comprehensive property management & technical oversight',
       'Proactive preventative maintenance & engineering audits',

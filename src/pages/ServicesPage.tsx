@@ -18,7 +18,7 @@ export const ServicesPage: React.FC<ServicesPageProps> = ({ onNavigate }) => {
         {/* Architectural Image Backdrop */}
         <div className="absolute inset-0 z-0">
           <img
-            src="/src/assets/images/prop_meridian_residence_1794250560154.jpg"
+            src="/images/prop_meridian_residence.jpg"
             alt="Lekki Phase 1 luxury architecture"
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover opacity-35"

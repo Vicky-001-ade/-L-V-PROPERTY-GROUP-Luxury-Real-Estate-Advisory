@@ -27,7 +27,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate, onSelectProperty
         {/* Full-width Cinematic Architectural Image */}
         <div className="absolute inset-0 z-0">
           <img
-            src="/src/assets/images/hero_luxury_villa_1794250558934.jpg"
+            src="/images/hero_luxury_villa.jpg"
             alt="Contemporary luxury residence with cantilevered architecture and infinity pool"
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover object-center scale-100"
@@ -146,7 +146,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate, onSelectProperty
             <div className="lg:col-span-6 relative">
               <div className="relative aspect-4/3 w-full bg-[#EAE6DD] border border-[#D9D3C8] overflow-hidden shadow-xl">
                 <img
-                  src="/src/assets/images/prop_azure_penthouse_1794250561445.jpg"
+                  src="/images/prop_azure_penthouse.jpg"
                   alt="Double-height luxury penthouse interior with marble fireplace and waterfront views"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover"
@@ -347,7 +347,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate, onSelectProperty
             <div className="bg-[#FFFFFF] border border-[#D9D3C8] overflow-hidden flex flex-col justify-between group">
               <div className="relative aspect-16/10 overflow-hidden bg-[#EAE6DD]">
                 <img
-                  src="/src/assets/images/prop_meridian_residence_1794250560154.jpg"
+                  src="/images/prop_meridian_residence.jpg"
                   alt="Residential Property Sales"
                   className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                 />
@@ -380,7 +380,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate, onSelectProperty
             <div className="bg-[#FFFFFF] border border-[#D9D3C8] overflow-hidden flex flex-col justify-between group">
               <div className="relative aspect-16/10 overflow-hidden bg-[#EAE6DD]">
                 <img
-                  src="/src/assets/images/prop_willow_estate_1794250561673.jpg"
+                  src="/images/prop_willow_estate.jpg"
                   alt="Luxury Property Rentals"
                   className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                 />
@@ -413,7 +413,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate, onSelectProperty
             <div className="bg-[#FFFFFF] border border-[#D9D3C8] overflow-hidden flex flex-col justify-between group">
               <div className="relative aspect-16/10 overflow-hidden bg-[#EAE6DD]">
                 <img
-                  src="/src/assets/images/prop_crest_residence_1794250561608.jpg"
+                  src="/images/prop_crest_residence.jpg"
                   alt="Property Investment Advisory"
                   className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                 />
@@ -455,7 +455,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate, onSelectProperty
         {/* Full-width Photographic Backdrop */}
         <div className="absolute inset-0 z-0">
           <img
-            src="/src/assets/images/prop_crest_residence_1794250561608.jpg"
+            src="/images/prop_crest_residence.jpg"
             alt="Banana Island luxury waterfront architecture"
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover opacity-35"
